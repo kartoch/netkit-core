@@ -1,3 +1,5 @@
+WARNING: The netkit-NG project is deprecated in favoir of Netkit-JH
+
 Netkit-NG version 3.0.4
 
 Documentation are located here: http://netkit-ng.github.io/
